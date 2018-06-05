@@ -4,6 +4,8 @@ To clone this project : git clone https://github.com/Jaisonbabu/UrlShortner.git
 
 Please follow the below build instructions:
 
+Install Redis and run : redis-server
+
 Install Maven and run the following command
 
 mvn clean install
