@@ -8,7 +8,8 @@ Install Maven and run the following command
 
 mvn clean
 mvn install
-Run the below command to deploy the jar
 
+Run the below command to deploy the jar :
 java -jar target\main-0.0.1-SNAPSHOT.jar
+
 The App will be launched at port 9000
