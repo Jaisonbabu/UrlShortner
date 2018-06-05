@@ -6,8 +6,7 @@ Please follow the below build instructions:
 
 Install Maven and run the following command
 
-mvn clean
-mvn install
+mvn clean install
 
 Run the below command to deploy the jar :
 java -jar target\main-0.0.1-SNAPSHOT.jar
